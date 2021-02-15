@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  strain_id: 1
+  effect_id: 1
+
+two:
+  strain_id: 1
+  effect_id: 1
